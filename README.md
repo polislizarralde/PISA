@@ -12,7 +12,7 @@ This repository contains the implementation and dataset for the research paper t
 - **Case Study on Dengue Transmission:** The application of this approach is demonstrated through a case study on dengue transmission dynamics in Itagui and Neiva, Colombia. This includes analysis of the most sensitive parameters affecting the spread of dengue and considerations for uncertain initial conditions.
 
 ## Data
-The dataset comprises actual data from two endemic municipalities in Colombia: Itagui and Neiva, stored in the folders `DataItague` and `DataNeiva` respectively. This data was essential in validating the effectiveness of the proposed approach for real-world applications in public health decision-making.
+The dataset comprises actual data from two endemic municipalities in Colombia: Itagui and Neiva, stored in the folders `DataItagui` and `DataNeiva` respectively. This data was essential in validating the effectiveness of the proposed approach for real-world applications in public health decision-making.
 
 ## Implementation
 - **PISA Algorithm:** The core algorithm is implemented in Mathematica and can be found in the `PISA_algorithm` file.
